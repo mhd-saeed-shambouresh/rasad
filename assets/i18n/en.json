@@ -1,0 +1,640 @@
+{
+  "DIR": "ltr",
+  "terms": {
+    "header": "Terms and Conditions",
+    "sub-header": "Effective Date: July 25, 2022",
+    "title": "These Terms and Conditions (“Terms”, or “Terms and Conditions”) govern your access and use of:\n   The website located at www.rasad.com.sa\n   The mobile application www.enigma.com.sa\n(collectively, the “Service”, or “Services”). The Services are operated by Rasad for Communications and Information (collectively, “us”, “we”, or “our”).\nPlease read these Terms carefully as they contain important information about your rights, remedies, and obligations.\nThese Terms govern your access and use of the Service and is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service (collectively, “you”, “user”, or “users”).\nBy accessing or using the Services, you confirm your agreement to be bound by these Terms, our Privacy Policy, which is incorporated into and made a part of these Terms, and other applicable our policies. If you do not agree to these Terms, you may not access or use the Services. These Terms expressly supersede prior agreements or arrangements with you. We may immediately terminate these Terms or any Services with respect to you, or generally cease offering or deny access to the Services or any portion thereof, at any time for any reason.",
+    "section1": {
+      "title": "Payments & Purchases",
+      "desc": "You understand that use of the Services may result in purchases made by you for the services or goods you receive (“Purchase”, or “Purchases”). When making a Purchase, you may be asked to provide information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, your name, your phone number, your billing address, and your shipping information.\nYou confirm and warrant that: (i) you have the legal right to use any credit card(s) or other payment method(s) in connection with any Purchase; and that (ii) the information you supply to us is true, correct and complete.\nBy submitting such information, or any other relevant information we see necessary for the process of your Purchase, you grant us the right to provide the information to third parties for purposes of facilitating the completion of Purchases.\nPayment processing services are provided by a third-party payment processor. By completing a Purchase through the Service, you agree to be bound by the terms and conditions of such third-party payment processors, which may be modified from time to time. As a condition of us enabling payment processing services through any such third parties, you authorize us to obtain all necessary access and perform all necessary activity to facilitate such payments. We reserve the right to switch payment processing vendors or use alternate or backup vendors in its discretion.\nWe reserve the right to refuse or cancel your Purchase order at any time for any reason, which includes, but is not limited to: product or service availability, errors in the description or price of the product or service, error in your order or other reasons.\nWe reserve the right to terminate any Service and refuse or cancel your Purchase order if fraud or an unauthorized or illegal transaction is suspected. Any such determination of fraud or illegality shall be made in the our sole discretion."
+    },
+    "section2": {
+      "title": "Subscriptions",
+      "desc": "We may offer any number of subscription plans, including special promotional plans or memberships offered by third parties in conjunction with the provision of such third party’s products and/or services. We are not responsible for the products and services provided by such third parties. We do not endorse any third party product or service. Some subscription plans may have differing conditions and limitations, which will be disclosed upon or before your subscription. By enrolling in a subscription plan, you agree to be bound by the terms and conditions of such third-party subscription plan, which may be modified from time to time.\nThe subscription fee for use of the our products and/or services and any other charges you may incur in connection with your use of the Service, such as taxes and possible transaction fees, will be charged to your payment method of choice that you have provided to us (“Payment Method”) on the agreed upon billing date. The length of your billing cycle will depend on the type of subscription that you choose.\nTo use the our subscription service you must provide one or more Payment Methods. You authorize us to charge any Payment Method associated to your account in case your primary Payment Method is declined or no longer available to us for payment of your subscription fee. You remain responsible for any uncollected amounts. If a payment is not successfully settled, due to expiration, insufficient funds, or otherwise, and you do not cancel your account or subscription service before charges are incurred, then we may suspend your access to the Service until we have successfully recouped payment and charged a valid Payment Method. For some Payment Methods, the issuer may charge you certain fees, such as foreign transaction fees or other fees relating to the processing of your Payment Method. Local tax charges may vary depending on the Payment Method used. All tax charges, including VAT, will be your responsibility.\nYou can cancel your subscription at any time, and you will continue to have access to the Services through the end of your active billing period. To the extent permitted by the applicable law, payments are non-refundable, and we do not provide refunds or credits for any partial subscription periods.\nWe may change our subscription plans and the price of our subscriptions and Services from time to time; however, any price changes or changes to your subscription plans will apply no earlier than thirty (30) days following notice to you."
+    },
+    "section3": {
+      "title": "Availability, Errors and Inaccuracies",
+      "desc": "There may be information in the Service that contains errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers, product shipping charges, delivery times and availability. We reserve the right to correct any errors, inaccuracies or omissions, and to change or update information or cancel orders if any information in the Service or on any related website is inaccurate at any time without prior notice (including after you have submitted your Purchase order).\nWe undertake no obligation to update, amend or clarify information in the Service, including without limitation, pricing information. No specified update or refresh date applied in the Service is correct, or that such information has been modified or updated."
+    },
+    "section4": {
+      "title": "Products & Services",
+      "desc": "We have made every effort to reflect as accurately as possible the description of our products and services. We cannot and do not guarantee the accuracy or completeness of any information, including prices, product images, specifications, availability, and services.\nWe do not warrant that the quality of our Services, or any products, services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.\nWe reserve the right at any time to modify or discontinue the Service (or any part or content thereof) without notice to you.\nWe shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service."
+    },
+    "section5": {
+      "title": "Sale Limitations",
+      "desc": "We reserve the right, but are not obligated, to limit the sales of our products or services to any person, geographic region or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any products or services that we offer. All descriptions of products or product pricing are subject to change at any time without notice, at the sole discretion of us. We reserve the right to discontinue any product at any time. Any offer for any product or service made on this Service is void where prohibited."
+    },
+    "section6": {
+      "title": "Accounts",
+      "desc": "You may need to create an account to use some of our Services. You must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.\nYou are responsible for safeguarding your account, so use a strong password and limit its use to this account. We cannot and will not be liable for any loss or damage arising from your failure to comply with the above.\nYou may not use as a username, display name or upload Content of another person or entity that is not lawfully available for use, or a name or trademark that is subject to any rights of another person or entity other than you without appropriate authorization, or a name that is otherwise offensive, vulgar or obscene."
+    },
+    "section7": {
+      "title": "Termination of Accounts",
+      "desc": "We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe: (a) you create risk or possible legal exposure for us; (b) your account should be removed due to unlawful conduct; (c) your account should be removed due to prolonged inactivity; (d) you attempt to spam, phish, pharm, pretext, spider, crawl, or scrape; (e) you attempt to solicit others to perform or participate in any unlawful acts; (f) you attempt to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, religion, ethnicity, race, age, national origin, or disability; (g) you attempt to submit false or misleading information; (h) you attempt to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (i) you attempt to collect or track the personal information of others; (j) you attempt to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet; (k) for violating any of the prohibited uses; (l) if our provision of the Services to you is no longer commercially viable; or (m) if you attempt to or do infringe upon or violate our intellectual property rights or the intellectual property rights of others.\nUpon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service."
+    },
+    "section8": {
+      "title": "Intellectual Property",
+      "desc": "The Service, and all of the text, graphics, editorial content, data, formatting, graphs, designs, HTML, look and feel, photographs, music, sounds, images, software, videos, designs, trademarks, logos, typefaces and other original content (excluding Content provided by users), features and functionality on or in the Service, as well as the coordination, selection, arrangement, and enhancement therein, are and will remain the exclusive property of ours and our licensors. The Service is protected by copyright, trademark, and other laws of both Saudi Arabia and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without our prior written consent.\nUsers may not copy, download, use, redesign, reconfigure, or retransmit anything from the Services without our express prior written consent and, if applicable, the holder of the rights to the Content. Any use of such material, other than as permitted therein, is expressly prohibited without our prior permission and, if applicable, the holder of the rights to the Content."
+    },
+    "section9": {
+      "title": "Third Parties",
+      "desc": "We may provide you with access to third-party products, services, tools or links (collectively, “Tools”) over which we neither endorse, monitor, nor have any control nor input.\nYou acknowledge and agree that access to such Tools are provided on an “AS IS” and “AS AVAILABLE” basis, without any warranties, representations or conditions of any kind and without any endorsement. We shall have no liability whatsoever arising from or relating to your use of third-party Tools.\nThe use of any Tools owned or operated by third parties is governed by the terms and conditions of use and privacy policies for those Tools. You access such Tools at your own risk. We expressly disclaim any liability arising in connection with your use and/or viewing of any Tools or other material associated with Tools that may appear on the Services. You hereby agree to hold us harmless from any liability that may result from the use of Tools that may appear on the Service."
+    },
+    "section10": {
+      "title": "Disclaimer of Warranties; Limitation of Liability",
+      "desc": "WE DO NOT GUARANTEE, REPRESENT OR WARRANT THAT YOUR USE OF THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE.\nWE DO NOT WARRANT THAT THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE.\nYOU AGREE THAT FROM TIME TO TIME WE MAY REMOVE THE SERVICE FOR INDEFINITE PERIODS OF TIME OR CANCEL THE SERVICE AT ANY TIME, WITHOUT NOTICE TO YOU.\nYOU EXPRESSLY AGREE THAT YOUR USE OF, OR INABILITY TO USE, THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE AND ALL PRODUCTS AND SERVICES DELIVERED TO YOU THROUGH OR BY THE SERVICE ARE (EXCEPT AS EXPRESSLY STATED BY US) PROVIDED ‘AS IS’ AND ‘AS AVAILABLE’ FOR YOUR USE, WITHOUT ANY REPRESENTATION, WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, MERCHANTABLE QUALITY, FITNESS FOR A PARTICULAR PURPOSE, DURABILITY, TITLE, AND NON-INFRINGEMENT. WE ASSUME NO LIABILITY OR RESPONSIBILITY IN CONTRACT, WARRANTY OR IN TORT FOR ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICES, (III) ANY ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN; AND (IV) EVENTS BEYOND OUR REASONABLE CONTROL.\nIN NO CASE SHALL WE, OUR DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, CONTRACTORS, INTERNS, SUPPLIERS, SERVICE PROVIDERS OR LICENSORS BE LIABLE FOR ANY INJURY, LOSS, CLAIM, OR ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING, WITHOUT LIMITATION LOST PROFITS, LOST REVENUE, LOST SAVINGS, LOSS OF DATA, REPLACEMENT COSTS, OR ANY SIMILAR DAMAGES, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, ARISING FROM YOUR USE OF ANY OF THE SERVICE OR ANY PRODUCTS PROCURED USING THE SERVICE, OR FOR ANY OTHER CLAIM RELATED IN ANY WAY TO YOUR USE OF THE SERVICE OR ANY PRODUCT, INCLUDING, BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS IN ANY CONTENT, OR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SERVICE OR ANY CONTENT (OR PRODUCT) POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICE, EVEN IF ADVISED OF THEIR POSSIBILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU IN THEIR ENTIRETY.\nIF, NOTWITHSTANDING THE FOREGOING EXCLUSIONS, IT IS DETERMINED THAT WE ARE LIABLE FOR DAMAGES, IN NO EVENT WILL THE AGGREGATE LIABILITY, WHETHER ARISING IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EXCEED THE GREATER OF FIVE HUNDRED (500) DOLLARS, OR THE TOTAL AMOUNT PAID BY YOU TO US DURING THE SIX (6) MONTHS PRIOR TO THE TIME SUCH CLAIM AROSE, TO THE EXTENT PERMITTED BY APPLICABLE LAW.\nIn addition, no individual or entity shall be a third-party beneficiary of these terms. These terms are solely for the benefit of the parties to this Agreement and are not intended to and shall not be construed to give any person or entity other than you any interest, remedy, claim, liability, reimbursement, claim of action or any other rights (including, without limitation, any third party beneficiary rights), with respect to or in connection with any agreement or provision contained herein or contemplated hereby.\nSome jurisdictions do not allow the exclusion of certain warranties or limitation of liability for consequential or incidental damages, so certain aspects of the limitations above may not apply to you."
+    },
+    "section11": {
+      "title": "Indemnification",
+      "desc": "You hereby agree to indemnify, defend, and hold us harmless and our affiliates, and our attorneys, insurers, independent contractors, providers, successors and assigns (the “Indemnified Parties”) from and against any and all claims, demands, damages, expenses, losses, governmental obligations, suits, and/or controversies of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, direct, indirect, incidental, actual, consequential, economic, special, or exemplary, including attorneys’ fees and costs, incurred in connection with (i) your use or inability to use the Services, or (ii) your breach or violation of these Terms; (iii) your violation of any law, or the rights of any user or third party and (iv) any content submitted by you or using your account to the Services, including, but not limited to the extent such content may infringe on the intellectual rights of a third party or otherwise be illegal or unlawful. We reserves the right, in our own sole discretion, to assume the exclusive defense and control at our own expense of any matter otherwise subject to your indemnification. You will not, in any event, settle any claim or matter without our prior written consent."
+    },
+    "section12": {
+      "title": "Governing Law",
+      "desc": "These Terms shall be governed and construed in accordance with the laws of Saudi Arabia , without regard to its conflict of law provisions.\nOur failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service."
+    },
+    "section13": {
+      "title": "Modifications",
+      "desc": "We may revise these Terms from time to time. The changes will not be retroactive, and the most current version of the Terms, which will always be available upon contacting us, will govern our relationship with you. Other than for changes addressing new functions or made for legal reasons, we will notify you 30 days in advance of making effective changes to these Terms that impact the rights or obligations of any party to these Terms, for example via a service notification or an email to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms."
+    },
+    "section14": {
+      "title": "Contact Us",
+      "desc": "If you have any questions about these Terms, please contact us.\nEmail: sales@rasad.com.sa\nWebsite: www.rasad.com.sa\nPhone: +9668001110980 (KSA)"
+    }
+  },
+  "about-us": {
+    "title": "We help organizations\nstreamline their businesses!",
+    "part2": {
+      "title": "A Saudi company specialized in information, communication systems and digital products, we are unique in providing the best services and cloud products with a pure Saudi flavor. Our real goal is to make the service more reliable and very safe for all our customers, and this is what made us able to continue on the path of success. we alwasy aspire to meet all of our clients’ expectations.",
+      "name": "Abdullah bin Zayad",
+      "sub-title": "CEO"
+    },
+    "part3": {
+      "title": "State-of-the art platform. Trusted by the best."
+    }
+  },
+  "header": {
+    "try-rasad": "Try Rasad for Free",
+    "request-demo": "Request Demo",
+    "menu": {
+      "menu1": "Products",
+      "menu2": "Use Cases",
+      "menu3": "About Rasad",
+      "logIn": "Log in",
+      "contact": "Contact Sales",
+      "freeNumber": "Toll free number",
+      "call": "Call our toll free number"
+    }
+  },
+  "page404": {
+    "title": "Sorry something went wrong",
+    "home": "Home"
+  },
+  "footer": {
+    "Links": {
+      "title": "Links",
+      "option1": "Home",
+      "option2": "About us",
+      "option3": "Contact sale",
+      "option4": "Login"
+    },
+    "reachus": {
+      "title": "Reach us",
+      "email": "info@rasad.com.sa",
+      "map": "Riyadh - 62441",
+      "call": "+966 800 1110 980"
+    },
+    "copy": "© 2022 Rasad for Telecommunications and Information Solutions",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms & Conditions"
+  },
+  "ready": {
+    "title": "Ready for a change?",
+    "exp": "Experience how Rasad can transform your orgnization and begin your journey now"
+  },
+  "experince": {
+    "title": "See how Rasad helps companies achieve their KPIs",
+    "option": {
+      "option1": {
+        "desc": "The idea that I would save for a whole year in order to subscribe to an end-to-end package of cloud services to arrange my work is excellent for my business, especially the e-invoice.",
+        "name": "Shahd Al-Asmari",
+        "usb-title": "CEO - Puzzle for Business Solutions"
+      }
+    }
+  },
+  "main": {
+    "main-banner": {
+      "titleBig": "The End-to-End Solution \n for Managing Your Work",
+      "titleMidume": "The End-to-End \n Solution for Managing \n Your Work",
+      "titleNormal": "The End-to-End Solution for Managing Your Work",
+      "titleSmall": "The End-to-End\nSolution for\nManaging Your Work",
+      "partner": "A Partner Company of Vonome",
+      "sub-title": "How can Rasad help your business?",
+      "products": {
+        "product1": "SME",
+        "product2": "CRM",
+        "product3": "ERP",
+        "product4": "HR",
+        "product5": "E-Invoice",
+        "product6": "Media",
+        "product7": "Accounting"
+      },
+      "email": {
+        "enterEmail": "Enter your email",
+        "request": "Request Demo",
+        "validEmail": "Please enter a valid email address",
+        "requestEmail": "Enter a valid email to continue"
+      }
+    },
+    "uniq-solution": {
+      "title": "What makes our solution unique",
+      "option1": {
+        "title": "Ease of use",
+        "description": "Our product offers an easy-to-use interface that caters to everyone in your orgnization"
+      },
+      "option2": {
+        "title": "24/7 Support",
+        "description": "We provide excellent support from troubleshooting to configuring the application to suit your business requirements"
+      },
+      "option3": {
+        "title": "Cloud based",
+        "description": "You can access all the tools you need anytime and from anywhere in the world."
+      }
+    },
+    "products": {
+      "title": "Everything you need to run your business",
+      "call": "Yearly for just",
+      "call1": "Still have questions?",
+      "price": "540",
+      "currancy": "SR",
+      "touch": "Get in touch",
+      "usecase": "Use cases",
+      "learn": "Learn More",
+      "products": {
+        "product1": {
+          "title": "CRM",
+          "sub-title": "For customer facing teams",
+          "desc": "Designed to help entrepreneurs, sales teams boost productivity, win more deals, and foster brand loyalty.",
+          "useCases": {
+            "option1": "Lead Management",
+            "option2": "Deal Management",
+            "option3": "Post-sales Management",
+            "option4": "Account & Contact Management"
+          }
+        },
+        "product2": {
+          "title": "SME",
+          "sub-title": "For marketing, product and ops teams",
+          "desc": "From deeper data to better customer relationships, Rasad is shaping the future of big Small businesses, with Solutions that scale with your ambitions.",
+          "useCases": {
+            "option1": "Product Management",
+            "option2": "Inventory Management",
+            "option3": "Point of Sale (POS)",
+            "option4": "Bill & Invoice Management"
+          }
+        },
+        "product3": {
+          "title": "E-Invoice",
+          "sub-title": "For accounting, legal and finance teams",
+          "desc": "built to request and collect online payments over email, SMS, or with a shareable link and get you paid faster.",
+          "useCases": {
+            "option1": "Electronic Invoicing",
+            "option2": "E-Invoicing Integration with ZATCA Portal",
+            "option3": "Cryptographic Stamp Supported",
+            "option4": "Credit & Debit Note"
+          }
+        },
+        "product4": {
+          "title": "ERP",
+          "sub-title": "For ops teams",
+          "desc": "Move beyond legacy tools with ERP software helps simplify the production cycle, helps track material consumption, and more!",
+          "useCases": {
+            "option1": "Supply Chain Module",
+            "option2": "Manufacturing Management",
+            "option3": "Vendor Management",
+            "option4": "Accounts Management"
+          }
+        },
+        "product5": {
+          "title": "HR",
+          "sub-title": "For human resource teams",
+          "desc": "Recruitments, Appraisal, Payroll, Attendances, etc. take back control of your business hr from one place.",
+          "useCases": {
+            "option1": "Employee Management",
+            "option2": "Leave Management",
+            "option3": "Payroll Management",
+            "option4": "Attendance Management"
+          }
+        },
+        "product6": {
+          "title": "Media",
+          "sub-title": "For marketing and branding teams",
+          "desc": "Discover every new trend Marketing Power, get the results you want, run data-fueled campaigns that drive the conversation and generate real ROI.",
+          "useCases": {
+            "option1": "Lead Management",
+            "option2": "Deal Management",
+            "option3": "Post-sales Management",
+            "option4": "Account & Contact Management"
+          }
+        },
+        "product7": {
+          "title": "Accounting",
+          "sub-title": "For accounting, legal and finance teams",
+          "desc": "Do more, in less time, accounting software to do your to-do financial, with smart insights just a click away.",
+          "useCases": {
+            "option1": "Ledger",
+            "option2": "Customer Account (Receivable A/C)",
+            "option3": "Supplier Account (Payable A/C)",
+            "option4": "Tax Configuration"
+          }
+        }
+      }
+    }
+  },
+  "contact-us": {
+    "title": "24/7 Support",
+    "sub-title": "We provide excellent support from troubleshooting to configuring the application to suit your business requirements",
+    "contact-msg": "Contact our Sales",
+    "contact-sub-msg": "A Rasad expert will reach out to discuss your needs.",
+    "form": {
+      "thisFieldIsRequired": "This field is required",
+      "notValidFirstName": "Not a valid first name",
+      "notValidLastName": "Not a valid Last name",
+      "notValidEmail": "Not a valid email",
+      "notValidMobile": "Not a valid  mobile number",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Work Email",
+      "mobile": "Phone Number",
+      "company": "Company",
+      "help": "How can our team help you",
+      "privicy": "By clicking submit you agree to Rasad",
+      "privicyPolicy": "Privacy Policy",
+      "submit": "Submit"
+    }
+  },
+  "products": {
+    "CRM": {
+      "Part1": {
+        "header": "CRM",
+        "title": "Building powerful remote customer experiences",
+        "sub-title": "Designed to help entrepreneurs, sales teams boost productivity, win more deals, and foster brand loyalty.",
+        "request-demo": "Request Demo"
+      },
+      "Part2": {
+        "section1": {
+          "title": "Manage Pipeline Sales",
+          "option1": "Get a real-time view of your sales team’s pipeline",
+          "option2": "Accurate dashboards keep track of your sales to make decisions that maximize your profit",
+          "option3": "Real-time detailed notifications for better sales collaboration",
+          "option4": "One support center for cases to make calls, send emails, schedule meetings, and view deal history, without logging everything by hand."
+        },
+        "section2": {
+          "title": "Leads Management",
+          "option1": "Keep track of your deals and services",
+          "option2": "Send invoices and quotes to customers"
+        },
+        "section3": {
+          "title": "Campaign Management",
+          "option1": "Engage customers through emails",
+          "option2": "Manage your social media accounts via RASAD CRM"
+        },
+        "section4": {
+          "title": "Sync & install",
+          "option1": "You can access the service from any computer, tablet, or smartphone, anywhere in the world.",
+          "option2": "We handle all of the security, data backups, and software updates."
+        },
+        "section5": {
+          "title": "Reports & insights",
+          "option1": "Accelerate your team’s smarter business decisions with powerful, real-time analytics",
+          "option2": "Measure and manage your organization’s territory-wide sales performance",
+          "option3": "Track key performance indicators, including current trends and future predictions"
+        }
+      },
+      "Part3": {
+        "title": "Get started\nwith CRM",
+        "option1": "Easy-to-use interface that caters to everyone in your orgnization",
+        "option2": "24/7 support to help you with troubleshooting and configuration",
+        "option3": "Access all the tools you need anytime and from anywhere in the world."
+      },
+      "Part4": {
+        "section1": {
+          "title": "Manage any Project",
+          "option1": "You’ll finally have a place to store everything you need to build and scale projects.",
+          "option2": "From one simple screen, you can see all  the notes, files, tasks, events, and pipeline information related to a contact.",
+          "option3": "With a simple search feature, you'll never have trouble finding a contact again.",
+          "option4": "Track time spent working on sub-tasks, and automatically Send invoices for customer."
+        },
+        "section2": {
+          "title": "Salesforce Automation",
+          "option1": "The lead report shows you an always up-to-date list of every lead in your pipeline, including the status and priority of the lead.",
+          "option2": "Capture leads from email, webform, and other data sources."
+        },
+        "section3": {
+          "title": "To-do list & calendar",
+          "option1": "Stop moving back and forth between apps. Streamline tasks with the teams at your company so that everyone can stay on the same page.",
+          "option2": "Add as many teams and you decide who has access to data, we make it easy.",
+          "option3": "Trigger cooperation actions, stay on top of activities and follow up better with workflows."
+        }
+      }
+    },
+    "ERP": {
+      "Part1": {
+        "header": "ERP",
+        "title": "Organize Your Process from Start to Finish",
+        "sub-title": "Move beyond legacy tools. ERP software helps simplify the production cycle, helps track material consumption, and more!",
+        "request-demo": "Request Demo"
+      },
+      "Part2": {
+        "section1": {
+          "title": "Order Management",
+          "option1": "Track orders from receipt to delivery.",
+          "option2": "Feed all orders to the warehouse, distribution center or retail store after customers place them and track their status as they’re prepared, fulfilled and shipped to the customer.",
+          "option3": "The order management module prevents orders from being lost and boosts on-time delivery rates to keep customers happy and cut unnecessary expenses for expedited shipping."
+        },
+        "section2": {
+          "title": "Product Listing",
+          "option1": "Define the units, the amount to charge for each unit, and the discounts you want to offer based on the volume purchased."
+        },
+        "section3": {
+          "title": "Inventory Management",
+          "option1": "Enables inventory control by tracking item quantities and location down to individual SKUs.",
+          "option2": "Offers a complete picture of not only current but also incoming inventory, through an integration with the procurement tool.",
+          "option3": "Helps businesses manage inventory costs, making sure they have sufficient stock without tying up too much cash in inventory.",
+          "option4": "Weigh sales trends against the available products to help companies make informed decisions that boost margins and increase inventory turn (a measure of how often inventory is sold over a certain period)."
+        },
+        "section4": {
+          "title": "Accounts Management",
+          "option1": "It allows businesses to understand their current financial state and future outlook.",
+          "option2": "Track accounts payable and accounts receivable and manage the general ledger.",
+          "option3": "Create and store crucial financial documents like balance sheets, payment receipts and tax statements, and more."
+        },
+        "section5": {
+          "title": "Projects Management",
+          "option1": "Track the status of projects, manage human and capital resources throughout, and allow managers to approve expenses and timesheets.",
+          "option2": "Facilitate collaboration between teams by keeping all related documents in a shared place, additionally, the PSA module can automatically prepare and send bills to clients based on rules around the billing cycle."
+        }
+      },
+      "Part3": {
+        "title": "Get started\nwith ERP",
+        "option1": "Easy-to-use interface that caters to everyone in your orgnization",
+        "option2": "24/7 support to help you with troubleshooting and configuration",
+        "option3": "Access all the tools you need anytime and from anywhere in the world."
+      },
+      "Part4": {
+        "section1": {
+          "title": "Digitize your supply chain for more efficiency.",
+          "option1": "Smart dashboards help you keep track of project details production and procurement, and link them with suppliers, while automating all operations and tracking and analyzing their prices"
+        },
+        "section2": {
+          "title": "Manufacturing Management",
+          "option1": "The manufacturing module helps manufacturers plan production and make sure they have everything they need for planned production runs, like raw materials and machinery capacity.",
+          "option2": "You can update the status of goods-in-progress and help companies track actual output against forecasted production."
+        },
+        "section3": {
+          "title": "E-Commerce  Management",
+          "option1": "This Feature allows companies to launch a business, with user-friendly tools that allow employees to easily add new items, update product content (item descriptions, titles, specs, images, etc.) and change the look and feel of the website."
+        }
+      }
+    },
+    "HR": {
+      "Part1": {
+        "header": "HR",
+        "title": "Manage your employees and Payroll as easily as you do in the office.",
+        "sub-title": "Recruitments, Appraisal, Payroll, Attendances. Take back control of your business HR",
+        "request-demo": "Request Demo"
+      },
+      "Part2": {
+        "section1": {
+          "title": "Employees Repository",
+          "option1": "Manage employee information in an easy and smooth way.",
+          "option2": "Manage and organize your workforce with tools such as communications, reporting, asset management, org charts."
+        },
+        "section2": {
+          "title": "Track Attendance",
+          "option1": "Track your employees worked hours and sort by project, client, or tasks.",
+          "option2": "You can access statistics to record and analyze timesheets as well as check each employee's attendance.",
+          "option3": "Integrat with accounting automatically, extracts time spent reports for each project and see real-time data."
+        },
+        "section3": {
+          "title": "Performance Management",
+          "option1": "Track employee performance, share goals and priorities to unite team efforts.",
+          "option2": "Keep an eye on employees' journeys and process salary hikes and bonuses for top performers."
+        },
+        "section4": {
+          "title": "Payroll Management",
+          "option1": "Leave behind the pain of generating individual salary.",
+          "option2": "Enter hourly pay or salaried employees, we'll handle the calculations, and you can provide your employee payslips in just minutes."
+        }
+      },
+      "Part3": {
+        "title": "Get started\nwith HR",
+        "option1": "Easy-to-use interface that caters to everyone in your orgnization",
+        "option2": "24/7 support to help you with troubleshooting and configuration",
+        "option3": "Access all the tools you need anytime and from anywhere in the world."
+      },
+      "Part4": {
+        "section1": {
+          "title": "See how your business is doing",
+          "option1": "Pay your employees and see transactions seamlessly in RASAD Accounting and Payroll"
+        },
+        "section2": {
+          "title": "Custom Roles",
+          "option1": "Control what your team members can see and do with advanced user permissions and visibility settings, with custom roles, you can define different access levels for team members based on their responsibilities, example:"
+        },
+        "section3": {
+          "title": "Leave management",
+          "option1": "Track employee vacation and sick days, Managers decide to either approve or refuse time off requests.",
+          "option2": "Notification is sent to the employee and their calendar is updated automatically Via RASAD app and work email."
+        }
+      }
+    },
+    "SME": {
+      "Part1": {
+        "header": "SME",
+        "title": "Rasad is Feature-loaded for growing SMEs",
+        "sub-title": "As your business grows, RASAD grows with you, flexible enough to suit any new process or team creation.",
+        "request-demo": "Request Demo"
+      },
+      "Part2": {
+        "section1": {
+          "title": "Suitable solutions for startups",
+          "option1": "Within seconds you'll have all your customer data in one place with the tools to keep track of your team, partnerships, opportunities, media relationships."
+        },
+        "section2": {
+          "title": "Point of Sale",
+          "option1": "Out-of-box point-of-sale system, where your customer makes a payment for products or services when visiting your store."
+        },
+        "section3": {
+          "title": "Sales and Marketing Management",
+          "option1": "Sales and Marketing Feature provides functionalities which begin from contacting customers which are referred to as pre sales activities.",
+          "option2": "Allows tracking of each customer orders right from placing an order to dispatch of material for that particular order, raising sales invoices and receiving payments from customer."
+        },
+        "section4": {
+          "title": "Supplier Management",
+          "option1": "The vendor management process is a series of strategic and tactical activities that companies use to manage and collaborate with vendors.",
+          "option2": "This includes setting objectives, establishing vendor selection criteria, negotiating contracts, strategizing for risk reduction, and controlling for cost and delivery."
+        },
+        "section5": {
+          "title": "Customer Information Management",
+          "option1": "The customer relationship management (CRM) Feature stores all customer and prospect information, which includes the company’s communication history with a person (the date and time of calls and emails, for example) and their purchase history.",
+          "option2": "You can track communication with prospects and suggest which customers should be targeted for certain promotions or cross-sell opportunities."
+        }
+      },
+      "Part3": {
+        "title": "Get started\nwith SME",
+        "option1": "Easy-to-use interface that caters to everyone in your orgnization",
+        "option2": "24/7 support to help you with troubleshooting and configuration",
+        "option3": "Access all the tools you need anytime and from anywhere in the world."
+      },
+      "Part4": {
+        "section1": {
+          "title": "Grow your businesses",
+          "option1": "We know your team is used to doing more with less, so by working within our workspace, you’ll have all the tools Share the information they need, so you can focus on making the most of your small team’s time and energy."
+        },
+        "section2": {
+          "title": "Automations for the win",
+          "option1": "Payments, customers, staff—it’s all connected with RASAD when you’re running your business, there is no time to spare for duplicate work, your team can work smarter, faster, and reach more customers more efficiently."
+        },
+        "section3": {
+          "title": "Exceptional customer experience",
+          "option1": "Our software is intuitive and simple to use, you can see the bigger picture, steer teams in the right direction, and avoid blind spots to make more informed decisions that elevate your customer experience"
+        }
+      }
+    },
+    "E-Invoice": {
+      "Part1": {
+        "header": "E-Invoice",
+        "title": "Everything you need for your business' billing process",
+        "sub-title": "built to request and collect online payments over email, SMS, or with a shareable link and get paid faster.",
+        "request-demo": "Request Demo"
+      },
+      "Part2": {
+        "section1": {
+          "title": "Create Professional Invoices",
+          "option1": "Creating professional invoices is essential to creating the right brand image, building trust with customers, and encouraging them to pay, we give you access to a range of professional designs to create the perfect invoices in seconds."
+        },
+        "section2": {
+          "title": "Turn Quotes into Invoices",
+          "option1": "Bill automatically based on sales orders, delivery orders, contracts, or time and material."
+        },
+        "section3": {
+          "title": "Track Payments in Real-Time",
+          "option1": "See whether an invoice is outstanding, viewed, or paid.",
+          "option2": "Rasad shows your due or overdue invoices and sends personalized automatic reminders to late-paying customers."
+        }
+      },
+      "Part3": {
+        "title": "Get started\nwith E-Invoice",
+        "option1": "Easy-to-use interface that caters to everyone in your orgnization",
+        "option2": "24/7 support to help you with troubleshooting and configuration",
+        "option3": "Access all the tools you need anytime and from anywhere in the world."
+      },
+      "Part4": {
+        "section1": {
+          "title": "Everything you need for your business' billing process",
+          "option1": "Eliminate routine tasks and make accurate forecasts with scheduled and prepayment and recurring invoices, as well as late invoice reminders, overview of your finances.",
+          "option2": "Use partial invoicing to easily charge your customer for services rendered and bill for the rest upon project completion, all on one beautiful dashboard."
+        },
+        "section2": {
+          "title": "Send invoices in seconds, track from anywhere.",
+          "option1": "Send digital invoices to customers, just a click away, check the status of any invoice paid and unpaid from anywhere from your computer, smartphone, or tablet."
+        }
+      }
+    },
+    "Media": {
+      "Part1": {
+        "header": "Media",
+        "title": "RASAD Social Listening Powered by Meltwater™",
+        "sub-title": "Discover every new trend , get the results you want, run data-fueled campaigns that drive the conversation and generate real ROI.",
+        "request-demo": "Request Demo"
+      },
+      "Part2": {
+        "section1": {
+          "title": "Media Monitoring",
+          "option1": "Comprehensive media monitoring and analysis across online news, social media, print, broadcast, and podcasts, capturing more content and conversations than anyone else in the industry.",
+          "option2": "Our news monitoring tool tracks keywords connected to the topics that matter for you and aggregates all public online and editorial content that mentions your keyword"
+        },
+        "section2": {
+          "title": "PR Insight",
+          "option1": "Measuring KPIs and visualizing analytics can be a painstaking task, we know how important it is for communications and public relations professionals to be data-driven, especially when it comes to proving the ROI of their work at the end of the year.",
+          "option2": "PR Insight helps you easily gain insight into the coverage that’s making an impact, connect the dots between paid, earned, shared, and owned media (PESO), and present findings in an easily digestible format."
+        },
+        "section3": {
+          "title": "Social Media Management",
+          "option1": "Do more on social in less time, Manage your incoming messages, Automatically schedule and publish your content in a simple calendar view and measure your social channel performance all in one place."
+        },
+        "section4": {
+          "title": "Dashboards Analysis",
+          "option1": "Build-in shareable dashboards to inform key stakeholders.",
+          "option2": "Benchmark your own performance against competitors across dozens of metrics.",
+          "option3": "Follow the social echo of your press releases, in real-time.",
+          "option4": "Create comprehensive reports filled with AI-powered insights, at the click of a button."
+        }
+      },
+      "Part3": {
+        "title": "Get started\nwith Media",
+        "option1": "Easy-to-use interface that caters to everyone in your orgnization",
+        "option2": "24/7 support to help you with troubleshooting and configuration",
+        "option3": "Access all the tools you need anytime and from anywhere in the world."
+      },
+      "Part4": {
+        "section1": {
+          "title": "Find out what your customers really think",
+          "option1": "Keep an eye on the latest social conversations, trends, and brand mentions.",
+          "option2": "Quickly respond to comments from an inbox that combines all your conversations from supported social networks in a single thread."
+        },
+        "section2": {
+          "title": "See what’s working. Do more of it",
+          "option1": "Our social analytics dashboard shows your top performing content and gives personalized insights on why it’s working."
+        },
+        "section3": {
+          "title": "Grow your social marketing right way",
+          "option1": "Take control of your content scheduling with a social media management tool that's built for marketing and PR professionals, Produce quality content that delights your audience and reaches more people."
+        }
+      }
+    },
+    "Accounting": {
+      "Part1": {
+        "header": "Accounting",
+        "title": "Manage your financial reporting",
+        "sub-title": "Do more, in less time, accounting software to do your to-do financial, with smart insights just a click away.",
+        "request-demo": "Request Demo"
+      },
+      "Part2": {
+        "section1": {
+          "title": "Unify and automate invoices & expenses",
+          "option1": "Assess your business health and improve financial controls, control supplier invoices and get a clear forecast of your future bills to pay."
+        },
+        "section2": {
+          "title": "Create custom ﬁnancial reports",
+          "option1": "Access up-to-date financial reports, including balance sheets, earnings reports, balance sheets or cash flow statements."
+        },
+        "section3": {
+          "title": "Optimize financial decision making",
+          "option1": "Move beyond transactional financial controls to drive agility and growth using financial reporting, enhance decision making, protect revenue, mitigate risks, and reduce costs."
+        }
+      },
+      "Part3": {
+        "title": "Get started\nwith\nAccounting",
+        "option1": "Easy-to-use interface that caters to everyone in your orgnization",
+        "option2": "24/7 support to help you with troubleshooting and configuration",
+        "option3": "Access all the tools you need anytime and from anywhere in the world."
+      },
+      "Part4": {
+        "section1": {
+          "title": "Optimize your business",
+          "option1": "Get a 360° view of your sales,  drive agility and growth using financial reporting and accurate analytics."
+        },
+        "section2": {
+          "title": "Get paid faster",
+          "option1": "Send reminders to your Invoices debtors in just a few clicks, simply set up follow-ups to receive payments on time"
+        },
+        "section3": {
+          "title": "Bank Synchronization",
+          "option1": "Get your bank statements synced with your bank automatically, or import files"
+        }
+      }
+    }
+  }
+}
